@@ -1,2 +1,0 @@
-# Veron
-Veron
